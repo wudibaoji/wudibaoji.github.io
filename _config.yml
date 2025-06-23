@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: 无敌煲机的博客
 
 # Your name to show in the footer
-author: Some Person
+author: wudibaoji
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "皮卡巴卡"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
